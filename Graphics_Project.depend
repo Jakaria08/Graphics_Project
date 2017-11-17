@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1510646325 source:h:\onedrive\cmput-511\project\graphics_project\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"sphere.h"
+	"hitable_list.h"
+	"float.h"
+	"camera.h"
+
+1510642448 h:\onedrive\cmput-511\project\graphics_project\sphere.h
+	"hitable.h"
+
+1510641298 h:\onedrive\cmput-511\project\graphics_project\hitable.h
+	"ray.h"
+
+1510638805 h:\onedrive\cmput-511\project\graphics_project\ray.h
+	"vec3.h"
+
+1510640284 h:\onedrive\cmput-511\project\graphics_project\vec3.h
+	<math.h>
+	<stdlib.h>
+	<iostream>
+
+1510641557 h:\onedrive\cmput-511\project\graphics_project\hitable_list.h
+	"hitable.h"
+
+1510646472 h:\onedrive\cmput-511\project\graphics_project\camera.h
+	"ray.h"
+
